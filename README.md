@@ -8,7 +8,7 @@ This project is a simple Data Acquisition (DAQ) system built with an STM32 micro
 * **Microcontroller:** STM32F407VGTX
 * **IDE:** STM32CubeIDE
 * **Library:** STM32 HAL
-* 
+
 ## Features
 * Reads raw analog values from the ADC channel.
 * Converts the raw digital data into real voltage values.
